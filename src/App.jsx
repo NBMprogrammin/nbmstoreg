@@ -33,6 +33,10 @@ import ProfileSettings from "./FrontEnd/User_Setting/ProfileSettings";
 
 
 function App() {
+  console.log('==========');
+  console.log('Start From Page App.jsx');
+  console.log('==========');
+  
   return (
     <DialogActionContextProvider>
       <div className="App">
